@@ -3,7 +3,7 @@
 ## This project is going to be a full stack app (MERN stack) using Firebase
 
 ### It covered:
-React Basics, Router, Hooks
+- React Basics, Router, Hooks
 - Redux
 - Context API
 - Firebase
