@@ -5,7 +5,7 @@
 ### It covered:
 React Basics, Router, Hooks
 - Redux
-Context API
+- Context API
 Firebase
 Stripe API
 GraphQL
