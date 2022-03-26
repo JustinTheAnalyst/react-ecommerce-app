@@ -4,7 +4,7 @@
 
 ### It covered:
 React Basics, Router, Hooks
-Redux
+- Redux
 Context API
 Firebase
 Stripe API
