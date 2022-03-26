@@ -6,12 +6,12 @@
 React Basics, Router, Hooks
 - Redux
 - Context API
-Firebase
-Stripe API
-GraphQL
-Apollo
-PWAs
-Testing with Jest, Enzyme and Snapshot testing
+- Firebase
+- Stripe API
+- GraphQL
+- Apollo
+- PWAs
+- Testing with Jest, Enzyme and Snapshot testing
 
 # Step 1: Project Setup
 1. Github project repo
