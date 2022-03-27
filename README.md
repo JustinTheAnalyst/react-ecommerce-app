@@ -35,8 +35,11 @@
 1. Open config.yml under .circleci folder
 2. Define job
 3. Add build job to circleci config.yml
+<<<<<<< HEAD
 4. Add onstall command to build job
 5. Create AWS S3 circleci job
 6. Create AWS CloudFront circleci job
 7. Create workflow
 8. Deploy app changes
+=======
+>>>>>>> c059fde6526d77b23c5ed8ac828ec372654aacfc
